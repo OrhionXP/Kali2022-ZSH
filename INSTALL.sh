@@ -31,8 +31,8 @@ fi
 
 printf "\n${Green}[✱] ${ORANGE}Kali 2022 ZSH Theme ${Green}Installed successfully!${NC}\n\n"
 
-printf "╔═════════════════════════════════════════════════════════╗ \n"
+printf "╔═══════════════════════════════════════════╗ \n"
 printf "║ Set ${ORANGE}kali2022 ${NC}as ZSH_THEME in your .zshrc  ║ \n"
-printf "╚═════════════════════════════════════════════════════════╝ \n\n"
+printf "╚═══════════════════════════════════════════╝ \n\n"
 
 
